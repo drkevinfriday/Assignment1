@@ -20,7 +20,7 @@ Directories
 
 ## Deployed Project
 Repo
-* [Horiseon Seo Marketing](https://drkevinfriday.github.io/Assignment1/
+* [Horiseon Seo Marketing](https://github.com/drkevinfriday/Horiseon-Seo-Marketing)
  Full Page
 ![Horiseon Seo Marketing](/assets/images/Horiseon-Full_Page.png)
 
