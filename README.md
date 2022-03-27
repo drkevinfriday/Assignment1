@@ -19,7 +19,10 @@ Directories
 * images
 
 ## Deployed Project
+Repo
 * [Horiseon Seo Marketing](https://drkevinfriday.github.io/Assignment1/
+ Full Page
+![Horiseon Seo Marketing](/assets/images/Horiseon-Full_Page.png)
 
 ## License
 Rights reserved to Horiseon LLC
